@@ -1,0 +1,10 @@
+# projetGameL2
+Programmation avancée
+
+
+In this semester, we will make a 2D game by C++ using SDL. For now, i've not found a Binôme yet. I will find one in the forum and we
+will write another commit later.
+
+Name of member: TRAN Manh Bach Tung
+Game: unknown
+Langage: C++ predicted.
